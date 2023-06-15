@@ -1,0 +1,14 @@
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.csproj.AssemblyReference.cache
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.AssemblyInfoInputs.cache
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.AssemblyInfo.cs
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\bin\Debug\net7.0\libmp3lame.32.dll
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\bin\Debug\net7.0\libmp3lame.64.dll
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\bin\Debug\net7.0\JarvisHomeAPIlibrary.deps.json
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\bin\Debug\net7.0\JarvisHomeAPIlibrary.dll
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\bin\Debug\net7.0\JarvisHomeAPIlibrary.pdb
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.dll
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\refint\JarvisHomeAPIlibrary.dll
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\JarvisHomeAPIlibrary.pdb
+C:\Users\Sovr6\OneDrive\Desktop\jarvisAPIlibraries\src\Csharp\JarvisHomeAutomationAPI\JarvisHomeAPIlibrary\obj\Debug\net7.0\ref\JarvisHomeAPIlibrary.dll
